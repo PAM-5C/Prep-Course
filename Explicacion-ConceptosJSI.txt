@@ -1,0 +1,25 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años.
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables:
+Podemos pensar las variables como "compartimentos" o "cajas" que usamos para almacenar valores. Estos valores pueden ser de diversos tipos de datos, tanto caracteres, strings, numeros.
+La utilidad de las variables está en que podemos luego acceder a los datos almacenados allí para trabajar con ellos, leerlos o modificarlos.
+
+Strings:
+Las Strings se diferencian de los números en cuanto a que el interprete las lee como texto, caracteres o cadenas de caracteres. Se señalan con comillas simples o dobles ( ' ' , " " ).
+Tanto 'Hola' como "35" y '@325As' son Strings. Por ejemplo, una operacion matematica entre NUMEROS como 3 + 5 se resuelve a 8, mientras que la suma entre '3' + '5' da como resultado '35'.
+
+Funciones (argumentos, return):
+Las funciones son objetos, piezas de codigo, que una vez creadas sirven para trabajar con las variables, cambiarlas, operar con ellas, etc. Cumplir determinada acción o función al "entregarle"
+determinados datos, estos datos que le entregamos son los Argumentos. 
+Podemos pensar a la funcion como cerrada en si misma, si queremos obtener el resultado de la accion realizada para utilizar ese resultado en codigo por fuera de la funcion, debemos utilizar la declaracion Return.
+
+Declaraciones if:
+Son una forma que tenemos de controlar el flujo por el que se ejecuta el código, si pensamos que la computadora ejecuta las órdenes escritas en código una detras de otra, podemos decir que 
+las declaraciones IF son la forma de establecer ciertas condiciones que modifican este órden, para lograr que tome un camino u otro segun las condiciones que le indiquemos.
+El IF es en esencia una comparación que busca establecer si un valor o condición es TRUE. Podemos entonces escribir código que SOLO se ejecutara en caso de cumplir estas condiciones, y código que SOLO se ejecutará
+en caso de no cumplirse esta condición.
+
+Valores booleanos (true, false):
+Los valores booleanos provienen de la Lógica de Boole y podríamos decir que hacen a la base de la computación. Remiten a dos opciones, dos estados absolutos: Activar / Desactivar, Apagado / Encendido, 1 / 0
+En el caso de Javascript, utilizamos TRUE / FALSE para significar verdadero o falso.
